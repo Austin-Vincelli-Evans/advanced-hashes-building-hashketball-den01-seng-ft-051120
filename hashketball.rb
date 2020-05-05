@@ -52,6 +52,8 @@ def game_hash
     blocks: 5, 
     slam_dunks: 12},
       ] },
+    
+    
     :home { team_name: 'Brooklyn Nets',
     colors: 'Black, White',
     players:[{ player_name: 'Alan Anderson',
