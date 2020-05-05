@@ -1,6 +1,6 @@
-def game_hash {
-  
-  away:  {
+def game_hash 
+  {
+    away:  {
     
   }
 }
